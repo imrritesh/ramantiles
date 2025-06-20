@@ -1,6 +1,6 @@
 {
   "name": "profile",
-  "homepage": "https://imrritesh.github.io/profile",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
