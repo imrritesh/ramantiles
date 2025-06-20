@@ -1,0 +1,71 @@
+{
+  "main": {
+    "name":"Raman Tiles & Bathware",
+    "occupation":"Crafting Spaces with Style and Elegance",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Raman Tiles and Bathware is your one-stop destination for premium tiles, marbles, and bathware. We offer a wide and stylish range to suit every taste and budget—perfect for homes, offices, and commercial spaces. With a commitment to quality and customer satisfaction, we bring you the best in design, durability, and value.",
+    "contactmessage":"Have a query? We’re here to help— get in touch using the contact details below. 👇",
+    "email": "ramantiles.bathware@gmail.com",
+    "phone": "+91 74881 87310",
+    "address":{
+      "street":"Ramanji More, Raniganj, ",
+      "city":"Araria, ",
+      "state":"Bihar, ",
+      "zip": "854312"
+    },
+    
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1dhRrtNbkhtb4esniEv0iwTg5LFml1erC/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/ramantiles",
+        "className":"fab fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/ramantiles",
+        "className":"fab fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"mailto:ramantiles.bathware@gmail.com",
+        "className":"fab fa-google-plus"
+      },
+      
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ramantiles",
+        "className":"fab fa-instagram"
+      },
+      
+      {
+        "name":"whatsapp",
+        "url":"wa.me/+917488187310",
+        "className":"fab fa-whatsapp"
+      }
+    ]
+  },
+ 
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Amazing variety and premium quality tiles! Raman Tiles transformed my bathroom. Highly recommend for anyone renovating or building.",
+        "user":"Akash Thakur"
+      },
+      {
+        "text":"Great service, elegant tile designs, and affordable prices. Raman Tiles and Bathwares is my go-to for home improvement.",
+        "user":"Anand Kumar"
+      },
+      {
+        "text":"Impressed by the vast collection of tiles and helpful staff. Shopping here was a smooth and satisfying experience.",
+        "user":"Vishal Kumar"
+      },
+      {
+        "text":"Raman Tiles offers top-notch quality and stylish designs. Their bathware selection is equally impressive. Loved the overall experience!",
+        "user":"Vaibhav Vishal"
+      }
+    ]
+  }
+}
