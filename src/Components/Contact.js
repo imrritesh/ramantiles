@@ -70,9 +70,8 @@ class Contact extends Component {
                   <p className="address">
                      Raman Tiles & Bathware,<br />
                      Pro. Shri Arun Mahto, <br />
-                     Purnew Road, Raman Jee More, <br />
-                     Raniganj, Araria,<br />
-                     Bihar, 854334<br />
+                     Purnea Road, Raman Jee More, <br />
+                     Raniganj, Araria, Bihar, 854334<br />
                      +91 74881 87310
                   </p>
                                    
